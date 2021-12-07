@@ -5,4 +5,8 @@ gujk
 test git 
 ibnou ratib youssef 
 kjje f ekj zef 
+<<<<<<< HEAD
 test merge
+=======
+test merge
+>>>>>>> 6e807f32864c0d2723ee1830a975653b3d55062b
