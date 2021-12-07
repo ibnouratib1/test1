@@ -4,8 +4,4 @@ sdqdsfd
 gujk
 test git 
 ibnou ratib youssef 
-<<<<<<< HEAD
 kjje f ekj zef 
-=======
-test pull 
->>>>>>> 0308bf4d827d98c1f3f2399812e25cf56fa911b4
